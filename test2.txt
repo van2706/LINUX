@@ -2,3 +2,4 @@ van
 xin chao
 sua tren github
 tao xung dot
+data write branch chia_se
